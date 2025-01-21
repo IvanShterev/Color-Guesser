@@ -71,3 +71,14 @@ h1{
     height: 65px;
     width: 65px;
 }
+
+#start-btn, #check-btn{
+    padding: 10px 15px 10px 15px;
+    border-radius: 12px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 23px;
+    background-color: rgb(241, 185, 64);
+    border: none;
+    cursor: pointer;
+}
